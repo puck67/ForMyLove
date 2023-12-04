@@ -318,7 +318,7 @@
         position: absolute;
         left: 50%;
         top: 50%;
-        margin-top: auto;
+        margin-top: -80px;
         -webkit-transform: translateX(-50%);
         -moz-transform: translateX(-50%);
         -ms-transform: translateX(-50%);
@@ -331,7 +331,7 @@
     .message h1 {
         font-style: normal;
         font-size: 75px;
-        margin-bottom: autoauto;
+        margin-bottom: ;
         white-space: nowrap;
     }
 
