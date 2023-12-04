@@ -24,7 +24,7 @@
         top: 50%;
         left: 50%;
         border-radius: 50%;
-        margin-top: auto;
+        margin-top: -;
         -webkit-transform: translate(-50%, -50%);
         -moz-transform: translate(-50%, -50%);
         -ms-transform: translate(-50%, -50%);
@@ -318,7 +318,7 @@
         position: absolute;
         left: 50%;
         top: 50%;
-        margin-top: -80px;
+        margin-top: 80px;
         -webkit-transform: translateX(-50%);
         -moz-transform: translateX(-50%);
         -ms-transform: translateX(-50%);
@@ -331,7 +331,7 @@
     .message h1 {
         font-style: normal;
         font-size: 75px;
-        margin-bottom: ;
+        margin-bottom:  ;
         white-space: nowrap;
     }
 
